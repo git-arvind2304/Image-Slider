@@ -15,6 +15,7 @@
         background-image: url("wallhaven-5w1k97.png");
         background-position:center;
         background-size:95% ;
+       background-repeat: no-repeat;
         
         
 
@@ -152,3 +153,4 @@
                 color: #4cd964;
             }
         }
+
